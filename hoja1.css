@@ -1,0 +1,29 @@
+/* hoja1.css */
+
+header {
+         background-color: #F7F0E2;
+     }
+.cabecera {
+          font size: 1.4em,}
+img{
+        vertical-align: middle;}
+ul {
+       background-color: bisque;
+ }
+li {
+        display: inline-block;
+        witdh= 24%;
+ }
+main{
+         background-color:azure;
+}
+section{
+      width:49%;
+      display:inline-block;
+      vertical-align: top;
+}
+a {
+        display:none;
+      background-color:beige;
+
+}
